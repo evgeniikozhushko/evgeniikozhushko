@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rock Star** 100 Hour Project part of #100Devs
 
-- 🌱 I’m currently learning **#100Devs, React**
+- 🌱 I’m currently learning **#100Devs, Node.js, React**
 
 - 👨‍💻 All of my projects are available at [evgenii.ca](evgenii.ca)
 
