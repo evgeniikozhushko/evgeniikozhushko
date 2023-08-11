@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evgenii Kozhushko</h1>
-<h3 align="center">A frontend developer from Canada</h3>
+<h3 align="center">A full stack developer from Canada</h3>
 
 <br>
 
 - 🔭 I’m currently working on **Rock Star** 100 Hour Project part of #100Devs
 
-- 🌱 I’m currently learning **#100Devs, Node.js, React**
+- 🌱 Learning **#100Devs, Node.js, React**
 
-- 👨‍💻 All of my projects are available at [evgenii.ca](evgenii.ca)
+- 👨‍💻 All of my projects are available at [evgenii.ca](evgenii.ca) (UNDER CONSTRUCTION)
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
