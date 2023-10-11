@@ -7,7 +7,7 @@
 
 - 🌱 Learning **React.js, Node.js, #100Devs**
 
-- 👨‍💻 All of my projects are available at [evgenii.ca](https://evgenii.ca/)
+- 👨‍💻 My recent projects are available at [evgenii.ca](https://evgenii.ca/)
 
 - 📫 How to reach me **info@evgenii.ca**
 
