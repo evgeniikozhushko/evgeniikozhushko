@@ -3,7 +3,7 @@
 
 <br>
 
-- :technologist: I’m currently working on a super secret "100 Hour Project" **Rock Star** part of #100Devs training program
+- :technologist: I’m currently working on a super secret "100 Hour Project" **BetaBoard** part of #100Devs training program
 
 - 🌱 Learning **React.js, Node.js, #100Devs**
 
