@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evgenii Kozhushko</h1>
-<h3 align="center">A designer and front-end developer from Canada</h3>
+<h3 align="center">A developer from Canada</h3>
 
 <br>
 
 - :technologist: I’m currently working on a super secret "100 Hour Project" [**BetaBoard**](https://github.com/ryanpilar/beta-board) part of #100Devs training program
 
-- 🌱 Learning **React.js, Node.js, #100Devs**
+- 🌱 Learning **React.js, NextJS, NodeJS, #100Devs**
 
 - 👨‍💻 My react projects are available at [Netlify](https://app.netlify.com/teams/evgeniikozhushko/sites)
 
