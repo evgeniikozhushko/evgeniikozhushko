@@ -3,9 +3,9 @@
 
 <br>
 
-- :technologist: I’m currently working on a super secret "100 Hour Project" [**BetaBoard**](https://github.com/ryanpilar/beta-board) part of #100Devs training program
+- :technologist: I’m currently working on a super secret "100 Hour Project" [**BetaBoard**](https://github.com/ryanpilar/beta-board) part of the #100Devs training program
 
-- 🌱 Learning **React.js, NextJS, NodeJS, #100Devs**
+- 🌱 Learning **React.js, NextJS, Express, MongoDB**
 
 - 👨‍💻 My react projects are available at [Netlify](https://app.netlify.com/teams/evgeniikozhushko/sites)
 
