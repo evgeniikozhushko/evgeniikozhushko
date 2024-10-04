@@ -9,9 +9,9 @@
 
 - 👨‍💻 My react projects are available at [Netlify](https://app.netlify.com/teams/evgeniikozhushko/sites)
 
-- My website [evgenii.ca](https://evgenii.ca/)
+- My website [evgenii.ca](https://evgenii-ca.onrender.com/)
 
-- 📫 How to reach me **info@evgenii.ca**
+- 📫 How to reach me **evgeniimedium@gmail.com**
 
 <br>
 
