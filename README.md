@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://twitter.com/evgeniikremlev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evgeniikremlev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/evgeniikozhushko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgenii kozhushko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/evgenii-kozhushko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgenii kozhushko" height="30" width="40" /></a>
 <a href="https://instagram.com/evgenii.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evgenii.ca" height="30" width="40" /></a>
 <a href="https://www.behance.net/evgenii kozhushko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="evgenii kozhushko" height="30" width="40" /></a>
 <a href="https://discord.gg/evgenii#5315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="evgenii#5315" height="30" width="40" /></a>
