@@ -4,10 +4,7 @@ real-time functionality, and user-centric design. Experienced in both SaaS platf
 and custom web solutions for diverse industries.</p>
 
 <br>
-
-- 👨‍💻 My react projects are available here:
-  
-<br>
+👨‍💻 My react projects are available here:
 
 - [beta board] (https://pangeas.netlify.app/)
 - [beta board RN] (https://github.com/evgeniikozhushko/beta-board-rn)
@@ -15,6 +12,6 @@ and custom web solutions for diverse industries.</p>
 - [NEO Rocket Launcher] (https://neo-rocket-launch.onrender.com)
 
 - My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
-
+<br>
 - 📫 How to reach me **evgeniimedium@gmail.com**
 
