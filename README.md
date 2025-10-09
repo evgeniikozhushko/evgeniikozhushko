@@ -10,10 +10,13 @@ and custom web solutions for diverse industries.</p>
 - [beta board RN] (https://github.com/evgeniikozhushko/beta-board-rn)
 - [beta comp] (https://beta-comp.onrender.com)
 - [NEO Rocket Launcher] (https://neo-rocket-launch.onrender.com)
+<br>
 
 - My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
 <br>
+
 - My resume (https://evgeniikozhushko.github.io/)
 - <br>
+
 - 📫 How to reach me **evgeniimedium@gmail.com**
 
