@@ -4,9 +4,9 @@ real-time functionality, and user-centric design. Experienced in both SaaS platf
 and custom web solutions for diverse industries.</p>
 
 <br>
-👨‍💻 My recent projects are available here:
-<br>
+👨‍💻 My recent projects:
 
+<br>
 - [beta board](https://pangeas.netlify.app/)
 - [beta board RN](https://github.com/evgeniikozhushko/beta-board-rn)
 - [beta comp](https://beta-comp.onrender.com)
