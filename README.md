@@ -13,5 +13,7 @@ and custom web solutions for diverse industries.</p>
 
 - My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
 <br>
+- My resume (https://evgeniikozhushko.github.io/)
+- <br>
 - 📫 How to reach me **evgeniimedium@gmail.com**
 
