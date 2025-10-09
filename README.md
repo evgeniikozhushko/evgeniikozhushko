@@ -1,6 +1,5 @@
 <h1>Evgenii Kozhushko</h1>
-<p>Full-Stack Developer specializing in secure MERN/Next.js applications with complex authorization,
-real-time functionality, and user-centric design. Experienced in both SaaS platform development
+<p>Full-Stack Developer specializing in MERN/Next.js applications. Experienced in both SaaS platform development
 and custom web solutions for diverse industries.</p>
 
 <br>
