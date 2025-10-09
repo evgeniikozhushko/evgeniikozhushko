@@ -4,7 +4,7 @@ real-time functionality, and user-centric design. Experienced in both SaaS platf
 and custom web solutions for diverse industries.</p>
 
 <br>
-👨‍💻 My react projects are available here:
+👨‍💻 My recent projects are available here:
 
 - [beta board] (https://pangeas.netlify.app/)
 - [beta board RN] (https://github.com/evgeniikozhushko/beta-board-rn)
@@ -14,6 +14,7 @@ and custom web solutions for diverse industries.</p>
 
 My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
 <br>
+
 My resume (https://evgeniikozhushko.github.io/)
 <br>
 
