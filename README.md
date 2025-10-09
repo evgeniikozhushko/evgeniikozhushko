@@ -12,11 +12,10 @@ and custom web solutions for diverse industries.</p>
 - [NEO Rocket Launcher] (https://neo-rocket-launch.onrender.com)
 <br>
 
-- My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
+My personal website [evgenii.ca](https://evgenii-ca.onrender.com/)
+<br>
+My resume (https://evgeniikozhushko.github.io/)
 <br>
 
-- My resume (https://evgeniikozhushko.github.io/)
-- <br>
-
-- 📫 How to reach me **evgeniimedium@gmail.com**
+📫 How to reach me **evgeniimedium@gmail.com**
 
