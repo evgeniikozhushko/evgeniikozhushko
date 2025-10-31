@@ -13,6 +13,8 @@ and custom web solutions for diverse industries.</p>
 - [NEO Rocket Launcher](https://neo-rocket-launch.onrender.com)
 <br>
 
+[studio587.ca](https://studio587.ca/)
+<br>
 [evgenii.ca](https://evgenii-ca.onrender.com/)
 <br>
 
