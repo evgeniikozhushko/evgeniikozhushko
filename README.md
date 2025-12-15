@@ -15,8 +15,6 @@ and custom web solutions for diverse industries.</p>
 
 [studio587.ca](https://studio587.ca/)
 <br>
-[evgenii.ca](https://evgenii-ca.onrender.com/)
-<br>
 
 [My resume](https://evgeniikozhushko.github.io/)
 <br>
