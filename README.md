@@ -6,9 +6,6 @@ and custom web solutions for diverse industries.</p>
 👨‍💻 My recent projects:
 
 <br>
-
-- [beta board](https://pangeas.netlify.app/)
-- [beta board RN](https://github.com/evgeniikozhushko/beta-board-rn)
 - [beta comp](https://beta-comp.onrender.com)
 - [NEO Rocket Launcher](https://neo-rocket-launch.onrender.com)
 <br>
